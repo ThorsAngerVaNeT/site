@@ -12,8 +12,8 @@ import yuliaKursevichImg from '@/shared/assets/mentors/y-kursevich.webp';
 export const javaScriptRu: Trainer[] = [
   {
     name: 'Вадим Антонов',
-    role: 'Full Stack Engineer @dev Team Inc.',
-    bio: 'Программист с более чем 10-летним опытом работы, изначально в PHP, а теперь full-stack инженер, владеющий TypeScript, Angular, React, Node.js и AWS. После десяти лет работы с PHP он переключил свое внимание на современные full-stack технологии, успешно прошел соответствующие курсы и теперь обучает других.',
+    role: 'Team Lead @Devscribed',
+    bio: 'Программист с более чем 10-летним опытом работы, изначально в PHP, а теперь full-stack инженер, владеющий TypeScript, Vue, Angular, React, Node.js и AWS. После десяти лет работы с PHP он переключил свое внимание на современные full-stack технологии, успешно прошел соответствующие курсы и теперь обучает других.',
     photo: vadimAntonauImg,
   },
 
