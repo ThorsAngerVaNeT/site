@@ -15,8 +15,8 @@ export const awsDev: Trainer[] = [
   },
   {
     name: 'Vadzim Antonau',
-    role: 'Full Stack Engineer @dev Team Inc.',
-    bio: 'A software engineer with over 10 years of experience, initially in PHP and now as a full-stack engineer proficient in TypeScript, Angular, React, Node.js, and AWS. After a decade in PHP development, he shifted focus to modern full-stack technologies, successfully completing courses and now teaching others.',
+    role: 'Team Lead @Devscribed',
+    bio: 'A software engineer with over 10 years of experience, initially in PHP and now as a full-stack engineer proficient in TypeScript, Vue, Angular, React, Node.js, and AWS. After a decade in PHP development, he shifted focus to modern full-stack technologies, successfully completing courses and now teaching others.',
     photo: awsImg2,
   },
   {
